@@ -1,0 +1,97 @@
+/* branding */
+
+
+/* black */
+
+@font-face {
+    font-family: 'RobotoBlack';
+    src: url('/public/fonts/Roboto/Roboto-Black.ttf') format('truetype');
+    src: url('/public/fonts/Roboto/Roboto-BlackItalic.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+
+/* bold */
+
+@font-face {
+    font-family: 'RobotoBold';
+    src: url('/public/fonts/Roboto/Roboto-Bold.ttf') format('truetype');
+    src: url('/public/fonts/Roboto/Roboto-Bold.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+
+/* italic */
+
+@font-face {
+    font-family: 'RobotoItalic';
+    src: url('/public/fonts/Roboto/Roboto-Italic.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+
+/* medium */
+
+@font-face {
+    font-family: 'RobotoMedium';
+    src: url('/public/fonts/Roboto/Roboto-Medium.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+
+/* regular */
+
+@font-face {
+    font-family: 'RobotoRegular';
+    src: url('/public/fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+
+/* thin */
+
+@font-face {
+    font-family: 'RobotoThin';
+    src: url('/public/fonts/Roboto/Roboto-Thin.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+.app-text-normal {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.app-text-medium {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+.app-text-bold {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.app-text-scripture {
+    font-family: 'Merriweather', serif;
+}
+
+.brand-italics-font {
+    font-family: 'Courgette', cursive;
+}
+
+.app-text-orange {
+    color: #ff5e3e;
+}
+
+.app-text-grey {
+    color: #8898aa;
+}
+
+.orange-brand {
+    color: #ffb716;
+}
+
+.app-logo {
+    font-size: 1.5625em;
+    margin: 10px 10px;
+}
